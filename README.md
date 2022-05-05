@@ -1,3 +1,3 @@
 # Tools
 
-- [Password Generator](https://nakayama-muimu.github.io/pw_gen.html){:target="_blank"}
+- Password Generator https://nakayama-muimu.github.io/pw_gen.html
